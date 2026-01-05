@@ -38,7 +38,7 @@ I enjoy exploring data, uncovering insights, and building intelligent solutions 
 * **QA Analyst — TechForge**
   Involved in end-to-end testing, guiding developers, and ensuring product quality.
 * **QA Automation Intern — Coventech**
-  Led a full product (DeftGPT) for a Chinese client, handled API testing, bug reporting, and automation setup.
+  Work on a full product (DeftGPT) for a Chinese client, handled API testing, bug reporting, and automation setup.
 * **Project Manager — Rasinnovatech**
   Oversaw project workflows, client communication, and team coordination.
 
